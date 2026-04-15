@@ -91,4 +91,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 > **Built with 💙 for the Ocean.**
-> *Part of the Smart India Hackathon 2025 Initiative.*
+> 
